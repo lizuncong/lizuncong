@@ -9,7 +9,7 @@
 
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 手把手从0到1搭建一个实战化的 `react-ssr` 开发框架，首屏ssr，代码分割懒加载，csr/ssr无缝切换
 
-- [babel-plugin-react-directives](https://github.com/lizuncong/babel-plugin-react-directives) babel插件开发，为react添加指令，学会开发自己的babel插件
+- [babel-plugin-react-directives](https://github.com/lizuncong/babel-plugin-react-directives) babel插件开发，为react添加 `r-if`、`r-show` 指令，学会开发自己的babel插件
 
 - [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手撕 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
 
