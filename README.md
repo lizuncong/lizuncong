@@ -4,6 +4,8 @@
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes/tree/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)) 简单列几个：
     + [web安全](https://github.com/lizuncong/Front-End-Development-Notes/tree/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)/web%E5%AE%89%E5%85%A8)
     + [跨域](https://github.com/lizuncong/Front-End-Development-Notes/blob/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)/web%E5%AE%89%E5%85%A8/%E8%B7%A8%E5%9F%9F.md) 跨域原理精讲及实践
+    + [SSE](https://github.com/lizuncong/Front-End-Development-Notes/blob/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)/%E7%BD%91%E7%BB%9C/server-sent-event(SSE).md) 服务器发送事件原理及实践
+    + [Web Worker](https://github.com/lizuncong/Front-End-Development-Notes/blob/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)/%E7%BD%91%E7%BB%9C/webWorker.md) Web Worker原理及实践
 
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 手把手从0到1搭建一个实战化的`react-ssr`开发框架，首屏ssr，代码分割懒加载，csr/ssr无缝切换
 
