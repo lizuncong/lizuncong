@@ -1,5 +1,5 @@
 ### Hi there 👋
-这里我会时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
+手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes/tree/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)) 简单列几个：
     + [web安全](https://github.com/lizuncong/Front-End-Development-Notes/tree/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)/web%E5%AE%89%E5%85%A8)
@@ -15,7 +15,7 @@
 
 - [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习 `webpack` 插件机制？ `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
 
-- [mini-promise](https://github.com/lizuncong/mini-promise) 手撕 `es6-promise` 源码，你真的了解 `Promise A+` 规范吗，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md), 来做一下
+- [mini-promise](https://github.com/lizuncong/mini-promise) 手撕 `es6-promise` 源码，理解 `async await` 语法糖原理，你真的了解 `Promise A+` 规范吗，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md), 来做一下
 
 - [mini-koa](https://github.com/lizuncong/mini-koa) 手撕koa源码，其实最主要是 `koa-compose` 中洋葱圈模型的实现
 
