@@ -18,3 +18,9 @@
 - [web-monitor](https://github.com/lizuncong/web-monitor) web前端性能监控埋点
 
 - [create-app-cli](https://github.com/lizuncong/create-app-cli) 一个类似于vue-cli的脚手架工具
+
+
+#### 正在以及即将要做的事情
+- webpack原理及源码实现，以及常用的loader，plugin实现，ing
+- react原理及源码
+- cicd
