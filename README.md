@@ -15,6 +15,6 @@
 
 - [mini-koa](https://github.com/lizuncong/mini-koa) 手撕koa源码，其实最主要是`koa-compose`中洋葱圈模型的实现
 
--[web-monitor](https://github.com/lizuncong/web-monitor) web前端性能监控埋点
+- [web-monitor](https://github.com/lizuncong/web-monitor) web前端性能监控埋点
 
 - [create-app-cli](https://github.com/lizuncong/create-app-cli)一个类似于vue-cli的脚手架工具
