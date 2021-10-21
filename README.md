@@ -9,12 +9,12 @@
 
 - 🤔 [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手撕`webpack-dev-server`源码，如何注入热更新运行时代码，如何生成补丁文件等
 
-- 💬 [mini-tapable](https://github.com/lizuncong/mini-tapable)你是不是想学习`webpack`插件机制？`mini-tapable`不仅解读官方`tapable`的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以(点击查看)[https://github.com/webpack/tapable/issues/162]
+- 💬 [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习`webpack`插件机制？`mini-tapable`不仅解读官方`tapable`的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
 
-- [mini-promise](https://github.com/lizuncong/mini-promise)手撕`es6-promise`源码，你真的了解`Promise A+`规范了，(这里有几道题)[https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md], 来做一下
+- [mini-promise](https://github.com/lizuncong/mini-promise) 手撕`es6-promise`源码，你真的了解`Promise A+`规范了，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md), 来做一下
 
 - [mini-koa](https://github.com/lizuncong/mini-koa) 手撕koa源码，其实最主要是`koa-compose`中洋葱圈模型的实现
 
 - [web-monitor](https://github.com/lizuncong/web-monitor) web前端性能监控埋点
 
-- [create-app-cli](https://github.com/lizuncong/create-app-cli)一个类似于vue-cli的脚手架工具
+- [create-app-cli](https://github.com/lizuncong/create-app-cli) 一个类似于vue-cli的脚手架工具
