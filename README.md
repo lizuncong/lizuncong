@@ -29,10 +29,9 @@
 
 
 #### 正在以及即将要做的事情
-- webpack原理及源码实现，以及常用的loader，plugin实现，ing
+- react原理及源码
 - service worker 
 - web rtc
-- react原理及源码
 - cicd
 - 组件库搭建
 - 微前端
