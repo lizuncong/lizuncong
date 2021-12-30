@@ -33,5 +33,7 @@
 - service worker 
 - web rtc
 - cicd
+- docker
 - 组件库搭建
 - 微前端
+- go
