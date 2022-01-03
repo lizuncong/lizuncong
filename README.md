@@ -21,7 +21,7 @@
 
 - [skeleton](https://github.com/lizuncong/skeleton) 前端骨架屏生成插件，自动抓取页面并生成页面骨架屏。使用puppeteer操作浏览器并抓取页面，生成页面骨架
 
-- [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack常见loader，plugin源码，以及webpack源码
+- [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack源码，以及webpack常见loader，plugin源码
 
 
 #### 正在以及即将要做的事情
