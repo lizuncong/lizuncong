@@ -7,6 +7,8 @@
 
 - [babel-plugin-react-directives](https://github.com/lizuncong/babel-plugin-react-directives) babel插件开发，为react添加 `r-if`、`r-show` 指令，学会开发自己的babel插件
 
+- [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack源码，以及webpack常见loader，plugin源码
+
 - [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手撕 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
 
 - [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习 `webpack` 插件机制？ `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
@@ -20,8 +22,6 @@
 - [create-app-cli](https://github.com/lizuncong/create-app-cli) 一个类似于vue-cli的脚手架工具
 
 - [skeleton](https://github.com/lizuncong/skeleton) 前端骨架屏生成插件，自动抓取页面并生成页面骨架屏。使用puppeteer操作浏览器并抓取页面，生成页面骨架
-
-- [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack源码，以及webpack常见loader，plugin源码
 
 
 #### 正在以及即将要做的事情
