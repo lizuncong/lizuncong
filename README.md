@@ -1,5 +1,5 @@
 ### Hi there 👋
-手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
+时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes/tree/master/%E5%89%8D%E7%AB%AF%E7%9F%A5%E8%AF%86%E4%BD%93%E7%B3%BB(%E5%85%A8%E9%9D%A2)) 主要是我平时的一些技术文档沉淀
 
