@@ -13,6 +13,8 @@
 
 - [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习 `webpack` 插件机制？ `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
 
+- [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
+
 - [mini-promise](https://github.com/lizuncong/mini-promise) 手撕 `es6-promise` 源码，理解 `async await` 语法糖原理，你真的了解 `Promise A+` 规范吗，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md), 来做一下
 
 - [mini-koa](https://github.com/lizuncong/mini-koa) 手撕koa源码，其实最主要是 `koa-compose` 中洋葱圈模型的实现
@@ -23,7 +25,6 @@
 
 - [skeleton](https://github.com/lizuncong/skeleton) 前端骨架屏生成插件，自动抓取页面并生成页面骨架屏。使用puppeteer操作浏览器并抓取页面，生成页面骨架
 
-- [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
 
 #### 正在以及即将要做的事情
 - react原理及源码
