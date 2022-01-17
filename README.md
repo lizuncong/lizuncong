@@ -15,7 +15,7 @@
 
 - [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
 
-- [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写react-redux源码，进行中
+- [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写redux、react-redux源码，进行中
 
 - [mini-promise](https://github.com/lizuncong/mini-promise) 手撕 `es6-promise` 源码，理解 `async await` 语法糖原理，你真的了解 `Promise A+` 规范吗，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md), 来做一下
 
