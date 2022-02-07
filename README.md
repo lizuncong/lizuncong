@@ -11,7 +11,7 @@
 
 - [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手撕 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
 
-- [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习 `webpack` 插件机制？ `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
+- [mini-tapable](https://github.com/lizuncong/mini-tapable) 你是不是想学习 `webpack` 插件机制？ `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，我和webpack作者相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
 
 - [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
 
