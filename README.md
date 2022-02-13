@@ -29,13 +29,14 @@
 
 - [skeleton](https://github.com/lizuncong/skeleton) 前端骨架屏生成插件，自动抓取页面并生成页面骨架屏。使用puppeteer操作无头浏览器并抓取页面，生成页面骨架
 
-
-#### 正在以及即将要做的事情
+#### 正在做的事情(Doing Now)
 - react原理及源码
+
+#### 即将要做的事情(Todo)
 - service worker 
 - web rtc
 - cicd
 - docker
 - 组件库搭建
 - 微前端
-- go
+- go语言
