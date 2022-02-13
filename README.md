@@ -31,6 +31,7 @@
 
 #### 正在做的事情(Doing Now)
 - react原理及源码
+- 编译原理，源码转AST，AST转源码
 
 #### 即将要做的事情(Todo)
 - service worker 
