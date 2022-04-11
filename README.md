@@ -31,6 +31,8 @@
 
 - [skeleton](https://github.com/lizuncong/skeleton) 前端骨架屏生成插件，自动抓取页面并生成页面骨架屏。使用puppeteer操作无头浏览器并抓取页面，生成页面骨架
 
+- [mini-vite](https://github.com/lizuncong/mini-vite) 手写vite源码
+
 #### 正在做的事情(Doing Now)
 - react原理及源码
 - 编译原理，源码转AST，AST转源码
