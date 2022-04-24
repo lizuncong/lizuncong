@@ -9,7 +9,7 @@
 
 - [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack源码，以及webpack常见loader，plugin源码
 
-- [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手撕 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
+- [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手写 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
 
 - [mini-tapable](https://github.com/lizuncong/mini-tapable) `webpack` 插件机制核心。 `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，我和webpack作者相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
 
@@ -19,9 +19,9 @@
 
 - [mini-react](https://github.com/lizuncong/mini-react) 手写react源码，**【进行中】**。。。
 
-- [mini-promise](https://github.com/lizuncong/mini-promise) 手撕 `es6-promise` 源码，理解 `async await` 语法糖原理，你真的了解 `Promise A+` 规范吗，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md)
+- [mini-promise](https://github.com/lizuncong/mini-promise) 手写 `es6-promise` 源码，理解 `async await` 语法糖原理，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md)帮助加强理解 `Promise A+` 规范
 
-- [mini-koa](https://github.com/lizuncong/mini-koa) 手撕koa源码，其实最主要是 `koa-compose` 中洋葱圈模型的实现
+- [mini-koa](https://github.com/lizuncong/mini-koa) 手写koa源码，`koa-compose` 中洋葱圈模型的实现
 
 - [web-monitor](https://github.com/lizuncong/web-monitor) web前端性能监控埋点
 
