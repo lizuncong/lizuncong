@@ -2,9 +2,6 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=lizuncong&show_icons=true" alt="logo" height="160" align="right" style="margin: 5px; margin-bottom: 20px;" />
 
-————————————————
-版权声明：本文为CSDN博主「LEILEI18A」的原创文章，遵循CC 4.0 BY-SA版权协议，转载请附上原文出处链接及本声明。
-原文链接：https://blog.csdn.net/leilei18a/article/details/116659324
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes) 知识总结，踩坑记录，最佳实践，八股文应有尽有
