@@ -6,6 +6,8 @@
 
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
+- [程序员送外卖指南](https://github.com/lizuncong/food_delivery_guide)
+
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 自研的、从0到1搭建的、配置透明简约的、实战化的、具备首屏SSR、CSR/SSR无缝切换的、代码分割懒加载的`react-ssr` 开发框架
 
 - [babel-plugin-react-directives](https://github.com/lizuncong/babel-plugin-react-directives) babel插件开发，为react添加 `r-if`、`r-show` 指令
