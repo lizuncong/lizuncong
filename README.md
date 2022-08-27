@@ -6,11 +6,17 @@
 
 - [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
+- [mini-react](https://github.com/lizuncong/mini-react) 手写react源码，**【进行中】**。。。
+
+- [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写redux、react-redux源码
+
+- [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
+
+- [monaco-editor-app](https://github.com/lizuncong/monaco-editor-app) 基于monaco editor的在线代码编辑器
+
 - [程序员送外卖指南](https://github.com/lizuncong/food_delivery_guide)
 
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 自研的、从0到1搭建的、配置透明简约的、实战化的、具备首屏SSR、CSR/SSR无缝切换的、代码分割懒加载的`react-ssr` 开发框架
-
-- [mini-react](https://github.com/lizuncong/mini-react) 手写react源码，**【进行中】**。。。
 
 - [mini-webpack](https://github.com/lizuncong/mini-webpack) 手写webpack源码，以及webpack常见loader，plugin源码
 
@@ -19,10 +25,6 @@
 - [mini-webpack-dev-server](https://github.com/lizuncong/mini-webpack-dev-server) 手写 `webpack-dev-server` 源码，如何注入热更新运行时代码，如何生成补丁文件等
 
 - [mini-tapable](https://github.com/lizuncong/mini-tapable) `webpack` 插件机制核心。 `mini-tapable` 不仅解读官方 `tapable` 的源码，还用自己的思路去实现一遍，并且和官方的运行时间做了个比较，我和webpack作者相关的讨论可以[点击查看](https://github.com/webpack/tapable/issues/162)
-
-- [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
-
-- [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写redux、react-redux源码
 
 - [mini-promise](https://github.com/lizuncong/mini-promise) 手写 `es6-promise` 源码，理解 `async await` 语法糖原理，[这里有几道题](https://github.com/lizuncong/mini-promise/blob/master/06-es6-promise/mini-promise/promise%E7%BB%83%E4%B9%A0%E9%A2%98.md)帮助加强理解 `Promise A+` 规范
 
