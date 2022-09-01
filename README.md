@@ -8,7 +8,7 @@
 
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 自研的、从0到1搭建的、配置透明简约的、实战化的、具备首屏SSR、CSR/SSR无缝切换的、代码分割懒加载的`react-ssr` 开发框架
 
-- [mini-react](https://github.com/lizuncong/mini-react) 手写react源码，**【进行中】**。。。
+- [mini-react](https://github.com/lizuncong/mini-react) 针对react、react dom、react reconciler、react scheduler源码进行全方位深度解析，【进行中】
 
 - [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写redux、react-redux源码
 
