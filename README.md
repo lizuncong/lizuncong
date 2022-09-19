@@ -10,6 +10,8 @@
 
 - [mini-react](https://github.com/lizuncong/mini-react) 针对react、react dom、react reconciler、react scheduler源码进行全方位深度解析，【进行中】
 
+- [mini-parser](https://github.com/lizuncong/mini-parser) 从零开始实现一个AST解析器
+
 - [mini-react-redux](https://github.com/lizuncong/mini-react-redux) 手写redux、react-redux源码
 
 - [mini-react-router](https://github.com/lizuncong/mini-react-router) 手写react-router-dom、react-router源码
