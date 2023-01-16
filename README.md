@@ -4,7 +4,7 @@
 
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
-- [前端知识总结](https://github.com/lizuncong/Front-End-Development-Notes) 知识总结，踩坑记录，最佳实践，八股文应有尽有
+- [前端知识总结](https://lizuncong.github.io/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
 - [egg-react-ssr](https://github.com/lizuncong/egg-react-ssr) 自研的、从0到1搭建的、配置透明简约的、实战化的、具备首屏SSR、CSR/SSR无缝切换的、代码分割懒加载的`react-ssr` 开发框架
 
