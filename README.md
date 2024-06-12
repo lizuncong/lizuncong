@@ -1,7 +1,6 @@
 ### Hi there 👋
 
 <p> 
-  Visitor count<br>
   <img src="https://profile-counter.glitch.me/lizuncong/count.svg" />
 </p>
 
