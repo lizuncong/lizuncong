@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+<p> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/zwkang/count.svg" />
+</p>
+
 <img src="https://github-readme-stats.vercel.app/api?username=lizuncong&show_icons=true" alt="logo" height="160" align="right" />
 
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
