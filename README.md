@@ -2,7 +2,7 @@
 
 <p> 
   Visitor count<br>
-  <img src="https://profile-counter.glitch.me/zwkang/count.svg" />
+  <img src="https://profile-counter.glitch.me/lizuncong/count.svg" />
 </p>
 
 <img src="https://github-readme-stats.vercel.app/api?username=lizuncong&show_icons=true" alt="logo" height="160" align="right" />
