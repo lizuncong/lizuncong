@@ -10,7 +10,7 @@
 
 - [前端知识总结](https://lizuncong.github.io/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
-- [落地页低代码编辑器](https://lizuncong.github.io/web-editor/#/editor) 低代码编辑器
+- [落地页低代码编辑器](https://lizuncong.github.io/web-editor/) 低代码编辑器
 
 - [Canvas 2D绘图基础](https://lizuncong.github.io/excalidraw-app/) Canvas基础支持、Canvas性能分析、Canvas协同白板实战教程
 
