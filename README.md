@@ -53,14 +53,7 @@
 - [mini-vite](https://github.com/lizuncong/mini-vite) 手写vite源码
 
 #### 正在做的事情(Doing Now)
-- react原理及源码
-- 编译原理，源码转AST，AST转源码
+- Electron开源录屏大帝
+- WebGL
+- AI
 
-#### 即将要做的事情(Todo)
-- service worker 
-- web rtc
-- cicd
-- docker
-- 组件库搭建
-- 微前端
-- go语言
