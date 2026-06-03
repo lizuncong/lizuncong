@@ -8,6 +8,8 @@
 
 时不时手撕常见框架的源码，或者搞一些有趣的工具，当然还有前端知识的总结
 
+- [Snake Design](https://github.com/lizuncong/snake-design) 复刻claude design
+
 - [前端知识总结](https://lizuncong.github.io/) 知识总结，踩坑记录，最佳实践，八股文应有尽有
 
 - [落地页低代码编辑器](https://lizuncong.github.io/web-editor/) 低代码编辑器
@@ -53,7 +55,7 @@
 - [mini-vite](https://github.com/lizuncong/mini-vite) 手写vite源码
 
 #### 正在做的事情(Doing Now)
-- Electron开源录屏大帝
-- WebGL
-- AI
+- [Snake Design](https://github.com/lizuncong/snake-design)
+- 基于github搭建Coding Agent工作流平台
+- 抽象harness工程化基建，适配codex,cursor，claude等各个coding agent
 
