@@ -55,7 +55,7 @@
 - [mini-vite](https://github.com/lizuncong/mini-vite) 手写vite源码
 
 #### 正在做的事情(Doing Now)
-- [Snake Design](https://github.com/lizuncong/snake-design)
+- [Snake Design](https://github.com/lizuncong/snake-design) 复刻claude design，做一个纯web版的agent应用
 - 基于github搭建Coding Agent工作流平台
 - 抽象harness工程化基建，适配codex,cursor，claude等各个coding agent
 
